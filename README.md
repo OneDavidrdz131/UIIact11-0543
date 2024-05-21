@@ -26,5 +26,5 @@ samples, guidance on mobile development, and a full API reference.
 
 ## Codigo ESCANEO
 
-![image](https://github.com/OneDavidrdz131/UIIact11-0543/assets/143547422/3baee03e-adea-40bb-a0d8-46508e7bdec2)
+![image](https://github.com/OneDavidrdz131/UIIact11-0543/assets/143547422/9bb4c267-59a0-4f2c-85da-986c1ab07342)
 
